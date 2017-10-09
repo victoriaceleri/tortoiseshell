@@ -174,8 +174,16 @@ footer img
 
 footer
 {
-  margin: 4rem;
   width: 960px;
   display: flex;
   justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.container
+{
+    background-color: azure;
+    width: 960px;
+    padding: 4rem;
 }
